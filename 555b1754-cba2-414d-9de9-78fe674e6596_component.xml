@@ -1,0 +1,123 @@
+<chunk name="Object" index="0">
+  <items count="2">
+    <item name="GUID" type_name="gh_guid" type_code="9">a0d62394-a118-422d-abb3-6af115c75b25</item>
+    <item name="Name" type_name="gh_string" type_code="10">Addition</item>
+  </items>
+  <chunks count="1">
+    <chunk name="Container">
+      <items count="4">
+        <item name="Description" type_name="gh_string" type_code="10">Mathematical addition</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">555b1754-cba2-414d-9de9-78fe674e6596</item>
+        <item name="Name" type_name="gh_string" type_code="10">Addition</item>
+        <item name="NickName" type_name="gh_string" type_code="10">Addition</item>
+      </items>
+      <chunks count="2">
+        <chunk name="Attributes">
+          <items count="2">
+            <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+              <X>597</X>
+              <Y>269</Y>
+              <W>88</W>
+              <H>44</H>
+            </item>
+            <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+              <X>628</X>
+              <Y>291</Y>
+            </item>
+          </items>
+        </chunk>
+        <chunk name="ParameterData">
+          <items count="5">
+            <item name="InputCount" type_name="gh_int32" type_code="3">2</item>
+            <item name="InputId" index="0" type_name="gh_guid" type_code="9">8ec86459-bf01-4409-baee-174d0d2b13d0</item>
+            <item name="InputId" index="1" type_name="gh_guid" type_code="9">8ec86459-bf01-4409-baee-174d0d2b13d0</item>
+            <item name="OutputCount" type_name="gh_int32" type_code="3">1</item>
+            <item name="OutputId" index="0" type_name="gh_guid" type_code="9">8ec86459-bf01-4409-baee-174d0d2b13d0</item>
+          </items>
+          <chunks count="3">
+            <chunk name="InputParam" index="0">
+              <items count="7">
+                <item name="Description" type_name="gh_string" type_code="10">First item for addition</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">d11941c0-7847-4b81-bcb5-7d102f43a742</item>
+                <item name="Name" type_name="gh_string" type_code="10">A</item>
+                <item name="NickName" type_name="gh_string" type_code="10">A</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">true</item>
+                <item name="Source" index="0" type_name="gh_guid" type_code="9">746f7d75-090b-4770-b797-7bcc9416eb43</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+              </items>
+              <chunks count="1">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>599</X>
+                      <Y>271</Y>
+                      <W>14</W>
+                      <H>20</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>607.5</X>
+                      <Y>281</Y>
+                    </item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+            <chunk name="InputParam" index="1">
+              <items count="7">
+                <item name="Description" type_name="gh_string" type_code="10">Second item for addition</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">f7f16bfd-e628-4c83-a45c-4befe438f1df</item>
+                <item name="Name" type_name="gh_string" type_code="10">B</item>
+                <item name="NickName" type_name="gh_string" type_code="10">B</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">true</item>
+                <item name="Source" index="0" type_name="gh_guid" type_code="9">a6ac82ae-131a-4627-8626-9a96a3c73957</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">1</item>
+              </items>
+              <chunks count="1">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>599</X>
+                      <Y>291</Y>
+                      <W>14</W>
+                      <H>20</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>607.5</X>
+                      <Y>301</Y>
+                    </item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+            <chunk name="OutputParam" index="0">
+              <items count="6">
+                <item name="Description" type_name="gh_string" type_code="10">Result of addition</item>
+                <item name="InstanceGuid" type_name="gh_guid" type_code="9">f0c30e37-38f3-4e22-bdde-082dc9918681</item>
+                <item name="Name" type_name="gh_string" type_code="10">Result</item>
+                <item name="NickName" type_name="gh_string" type_code="10">Result</item>
+                <item name="Optional" type_name="gh_bool" type_code="1">false</item>
+                <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
+              </items>
+              <chunks count="1">
+                <chunk name="Attributes">
+                  <items count="2">
+                    <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
+                      <X>643</X>
+                      <Y>271</Y>
+                      <W>40</W>
+                      <H>40</H>
+                    </item>
+                    <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
+                      <X>663</X>
+                      <Y>291</Y>
+                    </item>
+                  </items>
+                </chunk>
+              </chunks>
+            </chunk>
+          </chunks>
+        </chunk>
+      </chunks>
+    </chunk>
+  </chunks>
+</chunk>
