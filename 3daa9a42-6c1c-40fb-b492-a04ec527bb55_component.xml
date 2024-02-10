@@ -9,7 +9,7 @@
         <item name="Description" type_name="gh_string" type_code="10">A panel for custom notes and text values</item>
         <item name="InstanceGuid" type_name="gh_guid" type_code="9">3daa9a42-6c1c-40fb-b492-a04ec527bb55</item>
         <item name="Name" type_name="gh_string" type_code="10">Panel</item>
-        <item name="NickName" type_name="gh_string" type_code="10">Panel</item>
+        <item name="NickName" type_name="gh_string" type_code="10"></item>
         <item name="Optional" type_name="gh_bool" type_code="1">false</item>
         <item name="ScrollRatio" type_name="gh_double" type_code="6">0</item>
         <item name="Source" index="0" type_name="gh_guid" type_code="9">f0c30e37-38f3-4e22-bdde-082dc9918681</item>
@@ -20,8 +20,8 @@
         <chunk name="Attributes">
           <items count="5">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>651</X>
-              <Y>141</Y>
+              <X>788</X>
+              <Y>250</Y>
               <W>130</W>
               <H>82</H>
             </item>
@@ -29,8 +29,8 @@
             <item name="MarginRight" type_name="gh_int32" type_code="3">0</item>
             <item name="MarginTop" type_name="gh_int32" type_code="3">0</item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>651.7915</X>
-              <Y>141.395</Y>
+              <X>788.4582</X>
+              <Y>250.395</Y>
             </item>
           </items>
         </chunk>
